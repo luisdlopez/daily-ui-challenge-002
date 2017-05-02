@@ -1,6 +1,13 @@
 # daily-ui-challenge-002
 
-> Design a credit card checkout form or page
+> Design a credit card checkout form or page. The design itself is based on this [dribbble](https://dribbble.com/shots/2686011-Daily-UI-002-Card-Checkout).
+
+> Demo [here](https://daily-ui-challenge-002.firebaseapp.com/)
+
+This project uses the following librairies:
+- [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d)
+- [Material UI](https://www.muicss.com/)
+
 
 ## Build Setup
 
